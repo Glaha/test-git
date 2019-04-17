@@ -8,3 +8,4 @@ merge dev
 wo ai ni
 xiaoyan ai wo
 stash
+dev - remote1
