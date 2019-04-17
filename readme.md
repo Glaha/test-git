@@ -3,3 +3,5 @@ new line
 line 2
 master
 merge master
+dev
+merge dev
